@@ -11,6 +11,7 @@
   <ItemGroup>
     <None Remove="NugetFlag1_175x175.png" />
     <None Remove="NugetFlag2_175x175.png" />
+    <None Remove="ReadMe.md" />
   </ItemGroup>
 
   <ItemGroup>
