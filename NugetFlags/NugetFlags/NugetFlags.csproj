@@ -10,10 +10,14 @@
 
   <ItemGroup>
     <None Remove="NugetFlag1_175x175.png" />
+    <None Remove="NugetFlag2_175x175.png" />
   </ItemGroup>
 
   <ItemGroup>
     <Content Include="NugetFlag1_175x175.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="NugetFlag2_175x175.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
   </ItemGroup>
