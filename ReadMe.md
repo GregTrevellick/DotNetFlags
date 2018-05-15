@@ -1,11 +1,12 @@
 ﻿# Nuget Flags
 
-This package will, immediately upon adding the package to your project, add a collection of images of flags to your project.
+When you add this package to your project it will add a collection of country flag images to your project.
 
-That's it. There's no methods that can be called, zero functionality.
+No functionality, just a convenient collection of flags in one place.
 
-Yes, a pointless package. I built it just because I can, and out of curiosity for eventual usage.
+Also contains flags for U.S. states.
 
+## Credits
 
 http://flagpedia.net/download
 
