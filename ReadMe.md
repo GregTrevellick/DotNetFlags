@@ -8,11 +8,8 @@ Also contains flags for U.S. states.
 
 ## Credits
 
-http://flagpedia.net/download
+[Flagpedia](http://flagpedia.net/download)
 
---https://github.com/hjnilsson/country-flags
+[365 Icon](http://365icon.com/icon-styles/ethnic/classic2/)
 
-http://365icon.com/icon-styles/ethnic/classic2/
-
-
-https://github.com/emcrisostomo/flags
+[Enrico Maria Crisostomo](https://github.com/emcrisostomo/flags)
