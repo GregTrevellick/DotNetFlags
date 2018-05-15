@@ -17,12 +17,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Content Include="NugetIcon_64x64.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
-  </ItemGroup>
-
-  <ItemGroup>
     <Folder Include="CountryFlags\ByIsoCode\hjnilsson\" />
   </ItemGroup>
 
