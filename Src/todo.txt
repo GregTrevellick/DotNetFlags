@@ -1,1 +1,4 @@
---https://github.com/hjnilsson/country-flags
+https://github.com/hjnilsson/country-flags
+
+NugetFlags.nuspec
+
