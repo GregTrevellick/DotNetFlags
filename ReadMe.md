@@ -20,3 +20,4 @@ Also contains flags for U.S. states.
 
 [Icon Drawer](http://www.icondrawer.com/free.php)
 
+https://commons.wikimedia.org/wiki/File:GDJ-World-Flags-Globe.svg

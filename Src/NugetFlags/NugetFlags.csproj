@@ -9,16 +9,15 @@
   </ItemGroup>
 
   <ItemGroup>
-    <None Remove="NugetFlag1_175x175.png" />
-    <None Remove="NugetFlag2_175x175.png" />
+    <None Remove="NugetIcon_64x64.png" />
     <None Remove="ReadMe.md" />
+    <None Remove="zGDJ-World-Flags-Globe.svg.png" />
+    <None Remove="zNugetFlag1_175x175.png" />
+    <None Remove="zNugetFlag2_175x175.png" />
   </ItemGroup>
 
   <ItemGroup>
-    <Content Include="NugetFlag1_175x175.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
-    <Content Include="NugetFlag2_175x175.png">
+    <Content Include="NugetIcon_64x64.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
   </ItemGroup>
