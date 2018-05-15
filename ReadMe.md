@@ -14,6 +14,7 @@ Also contains flags for U.S. states.
 
 [Enrico Maria Crisostomo](https://github.com/emcrisostomo/flags)
 
-16 24 32 48 == http://www.icondrawer.com If you wish to use them on website, you have to place link to www.icondrawer.com on your site. (Somewhere on static page, not in blog or news page). If you can not or do not want to place link back, you can purchase royalty-free license.
+[Hampus Joakim Nilsson](https://github.com/hjnilsson/country-flags)
 
- 
+[Icon Drawer](http://www.icondrawer.com/free.php)
+***Important** : If you wish to use flags for free in the Icon Drawer folder on a website you must place link to [www.icondrawer.com](www.icondrawer.com) in a static first level page of your site (not in blog or news page). Alternatively you can purchase a [royalty-free license](http://www.icondrawer.com/buy.php#license).*
