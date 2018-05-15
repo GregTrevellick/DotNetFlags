@@ -9,7 +9,7 @@
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
 	<licenseUrl>https://github.com/GregTrevellick/NugetFlags/blob/master/LICENSE.txt</licenseUrl>
 	<projectUrl>https://github.com/GregTrevellick/NugetFlags</projectUrl>
-	<iconUrl>https://github.com/GregTrevellick/NugetFlags/blob/master/Src/NugetFlags/NugetIcon_64x64.png</iconUrl>	  
+	<iconUrl>https://github.com/GregTrevellick/NugetFlags/blob/master/Src/NugetIcon_64x64.png</iconUrl>	  
     <description>Adds a collection of country flag images to a dot net project.</description>
     <releaseNotes>Initial release.</releaseNotes>
     <copyright>Copyright 2018</copyright>
