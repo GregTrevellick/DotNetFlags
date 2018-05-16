@@ -8,6 +8,8 @@ Also contains flags for U.S. states.
 
 **Important** : If you wish to use flags for free in the Icon Drawer folder on a website you must place link to [www.icondrawer.com](www.icondrawer.com) in a static first level page of your site (not in blog or news page). Alternatively you can purchase a [royalty-free license](http://www.icondrawer.com/buy.php#license).
 
+[Installation instructions](https://www.nuget.org/packages/DotNetFlags/)
+
 ![](GDJ-World-Flags-Globe.svg.png)
 
 ## Credits
