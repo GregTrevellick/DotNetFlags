@@ -1,6 +1,6 @@
 ﻿# Dot Net Flags
 
-When you add this package to your project it will add a collection of country flag images to your project. Various sizes and formats, including SVG.
+When you add this package to your project it will add a collection of country flag images toyour .Net standard project. Various sizes and formats, including SVG.
 
 No functionality, just a convenient collection of flags in one place.
 

@@ -2,8 +2,8 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
-    <Version>1.0.3</Version>
-    <Description>Adds a collection of country flag images to a dot net project.</Description>
+    <Version>1.0.7</Version>
+    <Description>Adds a collection of country flag images to a dot net strandard project.</Description>
     <Authors>Greg Trevellick</Authors>
     <Company>Greg TrevellickGreg Trevellick</Company>
     <Copyright>Greg Trevellick 2018</Copyright>
@@ -22,11 +22,437 @@
   </ItemGroup>
 
   <ItemGroup>
+    <None Remove="CountryFlags\ad.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\ad.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\ae.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\af.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\ag.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\al.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\am.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\ao.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\ar.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\at.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\au.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\az.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\ba.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\bb.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\bd.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\be.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\bf.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\bg.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\bh.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\bi.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\bj.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\bn.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\bo.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\br.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\bs.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\bt.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\bw.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\by.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\bz.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\ca.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\cd.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\cf.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\cg.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\ch.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\ci.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\cl.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\cm.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\cn.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\co.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\cr.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\cu.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\cv.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\cy.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\cz.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\de.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\dj.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\dk.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\dm.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\do.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\dz.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\ec.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\ee.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\eg.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\eh.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\er.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\es.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\et.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\fi.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\fj.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\fm.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\fr.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\ga.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\gb.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\gd.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\ge.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\gh.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\gm.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\gn.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\gq.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\gr.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\gt.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\gw.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\gy.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\hn.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\hr.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\ht.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\hu.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\id.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\ie.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\il.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\in.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\iq.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\ir.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\is.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\it.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\jm.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\jo.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\jp.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\ke.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\kg.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\kh.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\ki.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\km.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\kn.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\kp.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\kr.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\ks.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\kw.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\kz.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\la.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\lb.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\lc.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\li.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\lk.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\lr.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\ls.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\lt.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\lu.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\lv.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\ly.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\ma.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\mc.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\md.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\me.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\mg.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\mh.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\mk.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\ml.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\mm.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\mn.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\mr.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\mt.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\mu.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\mv.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\mw.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\mx.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\my.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\mz.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\na.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\ne.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\ng.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\ni.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\nl.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\no.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\np.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\nr.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\nz.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\om.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\pa.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\pe.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\pg.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\ph.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\pk.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\pl.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\pt.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\pw.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\py.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\qa.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\ro.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\rs.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\ru.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\rw.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\sa.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\sb.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\sc.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\sd.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\se.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\sg.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\si.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\sk.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\sl.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\sm.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\sn.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\so.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\sr.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\st.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\sv.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\sy.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\sz.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\td.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\tg.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\th.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\tj.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\tl.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\tm.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\tn.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\to.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\tr.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\tt.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\tv.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\tw.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\tz.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\ua.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\ug.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\us.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\uy.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\uz.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\va.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\vc.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\ve.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\vn.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\vu.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\ws.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\ye.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\za.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\zm.png" />
+    <None Remove="CountryFlags\ByCode\flags-big\zw.png" />
     <None Remove="NugetIcon_64x64.png" />
     <None Remove="ReadMe.md" />
     <None Remove="zGDJ-World-Flags-Globe.svg.png" />
     <None Remove="zNugetFlag1_175x175.png" />
     <None Remove="zNugetFlag2_175x175.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="CountryFlags\ByCode\flags-big\am.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="CountryFlags\ByCode\flags-big\ao.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="CountryFlags\ByCode\flags-big\ar.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="CountryFlags\ByCode\flags-big\at.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="CountryFlags\ByCode\flags-big\au.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="CountryFlags\ByCode\flags-big\az.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="CountryFlags\ByCode\flags-big\al.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="CountryFlags\ByCode\flags-big\ad.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="CountryFlags\ByCode\flags-big\ae.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="CountryFlags\ByCode\flags-big\af.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="CountryFlags\ByCode\flags-big\ag.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="CountryFlags\ByCode\flags-big\ba.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="CountryFlags\ByCode\flags-big\bb.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\bd.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\be.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\bf.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\bg.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\bh.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\bi.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\bj.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\bn.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\bo.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\br.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\bs.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\bt.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\bw.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\by.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\bz.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\ca.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\cd.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\cf.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\cg.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\ch.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\ci.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\cl.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\cm.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\cn.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\co.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\cr.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\cu.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\cv.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\cy.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\cz.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\de.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\dj.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\dk.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\dm.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\do.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\dz.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\ec.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\ee.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\eg.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\eh.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\er.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\es.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\et.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\fi.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\fj.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\fm.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\fr.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\ga.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\gb.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\gd.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\ge.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\gh.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\gm.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\gn.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\gq.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\gr.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\gt.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\gw.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\gy.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\hn.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\hr.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\ht.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\hu.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\id.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\ie.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\il.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\in.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\iq.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\ir.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\is.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\it.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\jm.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\jo.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\jp.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\ke.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\kg.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\kh.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\ki.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\km.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\kn.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\kp.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\kr.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\ks.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\kw.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\kz.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\la.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\lb.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\lc.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\li.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\lk.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\lr.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\ls.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\lt.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\lu.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\lv.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\ly.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\ma.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\mc.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\md.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\me.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\mg.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\mh.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\mk.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\ml.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\mm.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\mn.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\mr.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\mt.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\mu.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\mv.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\mw.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\mx.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\my.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\mz.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\na.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\ne.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\ng.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\ni.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\nl.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\no.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\np.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\nr.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\nz.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\om.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\pa.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\pe.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\pg.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\ph.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\pk.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\pl.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\pt.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\pw.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\py.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\qa.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\ro.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\rs.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\ru.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\rw.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\sa.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\sb.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\sc.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\sd.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\se.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\sg.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\si.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\sk.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\sl.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\sm.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\sn.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\so.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\sr.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\st.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\sv.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\sy.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\sz.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\td.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\tg.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\th.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\tj.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\tl.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\tm.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\tn.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\to.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\tr.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\tt.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\tv.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\tw.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\tz.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\ua.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\ug.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\us.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\uy.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\uz.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\va.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\vc.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\ve.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\vn.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\vu.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\ws.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\ye.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\za.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\zm.png" />
+    <Content Include="CountryFlags\ByCode\flags-big\zw.png" />
   </ItemGroup>
 
   <ItemGroup>
