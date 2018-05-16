@@ -1,4 +1,4 @@
-﻿# Nuget Flags
+﻿# Dot Net Flags
 
 When you add this package to your project it will add a collection of country flag images to your project. Various sizes and formats, including SVG.
 

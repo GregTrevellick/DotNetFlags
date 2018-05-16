@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id></id>
+    <version>1.0.2</version>
+    <title>DotNetFlags</title>
+    <authors>Greg Trevellick</authors>
+    <owners>Greg Trevellick</owners>
+	<licenseUrl>https://github.com/GregTrevellick/DotNetFlags/blob/master/LICENSE.txt</licenseUrl>
+	<projectUrl>https://github.com/GregTrevellick/DotNetFlags</projectUrl>
+	<iconUrl>https://github.com/GregTrevellick/DotNetFlags/blob/master/Src/NugetIcon_64x64.png</iconUrl>
+	<requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Adds a collection of country flag images to a dot net project.</description>
+    <releaseNotes>Initial release.</releaseNotes>
+    <copyright>Copyright 2018</copyright>
+    <tags>Flags, Countries</tags>
+  </metadata>
+</package>
