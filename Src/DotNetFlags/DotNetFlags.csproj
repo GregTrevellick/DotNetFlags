@@ -2,7 +2,19 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
-    <Version>1.0.1</Version>
+    <Version>1.0.3</Version>
+    <Description>Adds a collection of country flag images to a dot net project.</Description>
+    <Authors>Greg Trevellick</Authors>
+    <Company>Greg TrevellickGreg Trevellick</Company>
+    <Copyright>Greg Trevellick 2018</Copyright>
+    <PackageLicenseUrl>https://github.com/GregTrevellick/DotNetFlags/blob/master/LICENSE.txt</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/GregTrevellick/DotNetFlags</PackageProjectUrl>
+    <PackageIconUrl>https://github.com/GregTrevellick/DotNetFlags/blob/master/Src/NugetIcon_64x64.png</PackageIconUrl>
+    <RepositoryUrl>https://github.com/GregTrevellick/DotNetFlags</RepositoryUrl>
+    <PackageTags>flags, countries, images</PackageTags>
+    <PackageReleaseNotes>Initial release</PackageReleaseNotes>
+    <RepositoryType>git</RepositoryType>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 
   <ItemGroup>
