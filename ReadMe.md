@@ -1,4 +1,7 @@
-﻿# Dot Net Flags
+# Dot Net Flags
+
+<!--BadgesSTART-->
+<!--BadgesEND-->
 
 When you add this package to your dot net standard project it will add a collection of country flag images toyour .Net standard project. Various sizes and formats, including SVG.
 
