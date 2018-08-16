@@ -1,10 +1,10 @@
 # Dot Net Flags
 
 <!--BadgesSTART-->
-
+<!-- Powered by https://github.com/GregTrevellick/ReadMeSynchronizer -->
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/DotNetFlags?branch=master)](https://bettercodehub.com/results/GregTrevellick/DotNetFlags)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/f3d3a599955b479dbe14f032bdec1be8)](https://www.codacy.com/project/gtrevellick/DotNetFlags/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/DotNetFlags&amp;utm_campaign=Badge_Grade_Dashboard)
-[![CodeFactor](https://www.codefactor.io/repository/github/gregtrevellick/DotNetFlags/badge)](https://www.codefactor.io/repository/github/gregtrevellick/DotNetFlags)
+[![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/DotNetFlags/badge)](https://www.codefactor.io/repository/github/GregTrevellick/DotNetFlags)
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/DotNetFlags.svg)](https://github.com/GregTrevellick/DotNetFlags)
 [![Github language count](https://img.shields.io/github/languages/count/GregTrevellick/DotNetFlags.svg)](https://github.com/GregTrevellick/DotNetFlags)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/GregTrevellick/DotNetFlags.svg)](https://github.com/GregTrevellick/DotNetFlags/pulls)
@@ -14,7 +14,23 @@
 [![ImgBot](https://img.shields.io/badge/images-optimized-green.svg)](https://imgbot.net/)
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
-[![Nuget downloads](https://img.shields.io/nuget/dt/DotNetFlags.svg)](https://www.nuget.org/packages/DotNetFlags/)<!--BadgesEND-->
+[![Nuget downloads](https://img.shields.io/nuget/dt/DotNetFlags.svg)](https://www.nuget.org/packages/DotNetFlags/)
+<!--BadgesEND-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 When you add this package to your dot net standard project it will add a collection of country flag images toyour .Net standard project. Various sizes and formats, including SVG.
 
