@@ -1,6 +1,7 @@
 # Dot Net Flags
 
 <!--BadgesSTART-->
+
 [![Read Me Synchronizer](https://img.shields.io/badge/-powered%20by%20read%20me%20synchronizer-brightgreen.svg)](https://github.com/GregTrevellick/ReadMeSynchronizer)
 <!-- Powered by https://github.com/GregTrevellick/ReadMeSynchronizer -->
 [![Build Status](https://gregtrevellick.visualstudio.com/GitHubAzurePipeline/_apis/build/status/GregTrevellick.DotNetFlags)](https://gregtrevellick.visualstudio.com/GitHubAzurePipeline/_build/latest?definitionId=1)
