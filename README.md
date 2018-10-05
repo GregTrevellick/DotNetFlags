@@ -9,6 +9,7 @@
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/DotNetFlags/badge)](https://www.codefactor.io/repository/github/GregTrevellick/DotNetFlags)
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/DotNetFlags.svg)](https://github.com/GregTrevellick/DotNetFlags)
 [![Github language count](https://img.shields.io/github/languages/count/GregTrevellick/DotNetFlags.svg)](https://github.com/GregTrevellick/DotNetFlags)
+[![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/DotNetFlags.svg)](https://github.com/GregTrevellick/DotNetFlags/issues)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/GregTrevellick/DotNetFlags.svg)](https://github.com/GregTrevellick/DotNetFlags/pulls)
 [![Sonar&metric=alert_status](https://sonarcloud.io/api/project_badges/measure?project=DotNetFlags&metric=alert_status)](https://sonarcloud.io/dashboard?id=DotNetFlags)
 [![Sonar&metric=bugs](https://sonarcloud.io/api/project_badges/measure?project=DotNetFlags&metric=bugs)](https://sonarcloud.io/component_measures?id=DotNetFlags&metric=bugs)
