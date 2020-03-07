@@ -7,7 +7,6 @@
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/f3d3a599955b479dbe14f032bdec1be8)](https://www.codacy.com/project/gtrevellick/DotNetFlags/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/DotNetFlags&amp;utm_campaign=Badge_Grade_Dashboard)
 
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/DotNetFlags/badge)](https://www.codefactor.io/repository/github/GregTrevellick/DotNetFlags)
-[![InspecodeRocro Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/DotNetFlags/report?token=ijmD3IjPguLh-fRQ8HxjQzizlIbw26rsarkAO0oN7Vo)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/DotNetFlags/branch/master/summary)
 
 
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/DotNetFlags.svg)](https://github.com/GregTrevellick/DotNetFlags)
@@ -28,7 +27,6 @@
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/0yqqgbviev6x1pe3?svg=true)](https://ci.appveyor.com/project/GregTrevellick/DotNetFlags)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/DotNetFlags.svg)](https://ci.appveyor.com/project/GregTrevellick/DotNetFlags/build/tests)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/DotNetFlags/_apis/build/status/DotNetFlags)](https://gregtrevellick.visualstudio.com/DotNetFlags/_build/latest?definitionId=1)
-[![InspecodeRocro Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/DotNetFlags/status?token=ijmD3IjPguLh-fRQ8HxjQzizlIbw26rsarkAO0oN7Vo)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/DotNetFlags/latest?completed=true)
 [![Hound](https://img.shields.io/badge/hound_ci-checked-brightgreen.svg)](https://houndci.com/)
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
