@@ -30,5 +30,13 @@
 			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
 		</Content>
 	</ItemGroup>
+
+	<ItemGroup>
+	  <Compile Remove="DummyCodeForSonar.cs" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <PackageReference Include="MSTest.TestFramework" Version="2.1.0" />
+	</ItemGroup>
 	
 </Project>
