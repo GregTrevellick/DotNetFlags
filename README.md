@@ -8,7 +8,7 @@
  [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/DotNetFlags/badge)](https://www.codefactor.io/repository/github/GregTrevellick/DotNetFlags)
     [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/DotNetFlags.svg)](https://github.com/GregTrevellick/DotNetFlags)
 [![Github language count](https://img.shields.io/github/languages/count/GregTrevellick/DotNetFlags.svg)](https://github.com/GregTrevellick/DotNetFlags)
-[![GitHub actions](https://github.com/GregTrevellick/DotNetFlags/workflows/.NET%20Core%20CI/badge.svg)](https://github.com/GregTrevellick/DotNetFlags/actions)
+[![GitHub actions](https://github.com/GregTrevellick/DotNetFlags/workflows/.NET%20Core/badge.svg)](https://github.com/GregTrevellick/DotNetFlags/actions)
 [![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/DotNetFlags.svg)](https://github.com/GregTrevellick/DotNetFlags/issues)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/GregTrevellick/DotNetFlags.svg)](https://github.com/GregTrevellick/DotNetFlags/pulls)
 [![GitHub followers](https://img.shields.io/github/followers/GregTrevellick.svg)](https://github.com/GregTrevellick?tab=followers)
